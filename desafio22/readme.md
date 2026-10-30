@@ -1,1 +1,1 @@
-Desafio22: Crie a classe "ControleRemoto", onde vamos 'simular' o funcionamento de um controle simples('canal', 'volume' e 'liga'/'desliga')
+Desafio 022: Crie a classe "ControleRemoto", onde vamos 'simular' o funcionamento de um controle simples('canal', 'volume' e 'liga'/'desliga')
