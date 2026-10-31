@@ -7,7 +7,12 @@ BebidaQuente{abstract}
 +misturar()
 +servir()
 Heranças
-
+^^^^^^
+------
+  |
+  |
+  |
+-------------
 Cafe
 -------------
 +misturar()
