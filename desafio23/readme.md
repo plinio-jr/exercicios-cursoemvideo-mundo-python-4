@@ -5,14 +5,14 @@ Desafio 023: Implemente o seguinte diagrama de classes:
 |+qtd_lados              |
 |________________________|
 |+perimetro() {absctract}|   
-|+area()  {absctract}    |     
---------------------------
-
-Subclasses:
-
---------------------------
-|Quadrado                |
-|+lado                   |
+|+area()  {absctract}    |   <---------
+--------------------------             |
+                                       |
+Subclasses:                            |
+                                       |
+--------------------------             |
+|Quadrado                |             |
+|+lado                   | ------------
 |________________________|
 |+perimetro()            |
 |+area()                 |
