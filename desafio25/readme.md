@@ -1,11 +1,12 @@
 Desafio 025: Crie classes capazes de calcular fretes de veiculos diferentes
 
 Transporte{abstract}
-----------------------
-+distancia
-+frete
-----------------------
-+calc_frete(){abstract}
+-------------------------
+|+distancia             |
+|+frete                 |
+----------------------  |
+|+calc_frete(){abstract}|
+-------------------------
 Heranças
 
 Caminhao
