@@ -5,7 +5,7 @@ Desafio 023: Implemente o seguinte diagrama de classes:
 |+qtd_lados              |
 |________________________|
 |+perimetro() {absctract}|   
-|+area()  {absctract}    |   <-------------------
+|+area()  {absctract}    |   <--------------------
 --------------------------             |         |
                                        |         |
 Subclasses:                            |         |
@@ -20,7 +20,7 @@ Subclasses:                            |         |
                                                  |
 --------------------------                       |
 |Circulo                 |                       |
-|+raio                   | ----------------------
+|+raio                   | -----------------------
 |________________________|
 |+perimetro()            |
 |+area()                 |
