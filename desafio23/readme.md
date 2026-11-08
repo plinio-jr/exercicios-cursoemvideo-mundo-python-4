@@ -9,7 +9,7 @@ Desafio 023: Implemente o seguinte diagrama de classes:
 --------------------------             |         |
                                        |         |
 Subclasses:                            |         |
-                                       |         |
+(perimetro/area herancas)              |         |
 --------------------------             |         |
 |Quadrado                |             |         |
 |+lado                   | ------------          |
