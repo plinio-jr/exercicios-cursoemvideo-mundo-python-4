@@ -22,5 +22,6 @@ Heranças
 |+servir()
 |Leite
 ----------------
-|+misturar()
-|+servir()
+|+misturar()    |
+|+servir()      |
+|---------------|
