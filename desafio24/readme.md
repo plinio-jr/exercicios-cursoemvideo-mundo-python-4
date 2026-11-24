@@ -18,8 +18,8 @@ Heranças
 |+servir()
 |Cha
 ----------------
-|+misturar()
-|+servir()
+|+misturar()    |
+|+servir()      |
 |Leite          |
 ----------------|
 |+misturar()    |
