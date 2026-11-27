@@ -1,6 +1,6 @@
 Desafio 023: Implemente o seguinte diagrama de classes:
 
-|------------------------|
+ ________________________
 |Poligono{abstract}      | 
 |+qtd_lados              |
 |------------------------|
